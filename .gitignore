@@ -3,6 +3,7 @@
 *.o
 *.out
 a.out
+vectordb
 
 # Build directories
 build/
